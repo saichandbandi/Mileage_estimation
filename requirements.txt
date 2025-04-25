@@ -11,3 +11,4 @@ simple-colors==0.1.5
 streamlit==1.31.1
 termcolor==2.4.0
 openpyxl
+libraries

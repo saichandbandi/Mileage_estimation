@@ -31,6 +31,7 @@ st.header("Estimation of mileage for the Given vehicles Details:")
 st.write("""Built a Predictive model in Machine Learning to estimate the mileage of a given vehicle can get.
          Sample Data taken as below shown.
 """)
+# Data Monitoring
 
 # Data Display
 st.dataframe(data.head())
